@@ -1,0 +1,145 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculadora/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Calculadora.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculadora.dll": {}
+        }
+      },
+      "JogoDaForca/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/JogoDaForca.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JogoDaForca.dll": {}
+        }
+      },
+      "JogoDoGalo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/JogoDoGalo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JogoDoGalo.dll": {}
+        }
+      },
+      "PedraPapelTesoura/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PedraPapelTesoura.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PedraPapelTesoura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora/1.0.0": {
+      "type": "project",
+      "path": "../Calculadora/Calculadora.csproj",
+      "msbuildProject": "../Calculadora/Calculadora.csproj"
+    },
+    "JogoDaForca/1.0.0": {
+      "type": "project",
+      "path": "../JogoDaForca/JogoDaForca.csproj",
+      "msbuildProject": "../JogoDaForca/JogoDaForca.csproj"
+    },
+    "JogoDoGalo/1.0.0": {
+      "type": "project",
+      "path": "../JogoDoGalo/JogoDoGalo.csproj",
+      "msbuildProject": "../JogoDoGalo/JogoDoGalo.csproj"
+    },
+    "PedraPapelTesoura/1.0.0": {
+      "type": "project",
+      "path": "../PedraPapelTesoura/PedraPapelTesoura.csproj",
+      "msbuildProject": "../PedraPapelTesoura/PedraPapelTesoura.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Calculadora >= 1.0.0",
+      "JogoDaForca >= 1.0.0",
+      "JogoDoGalo >= 1.0.0",
+      "PedraPapelTesoura >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vasco Vilhena\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\Consola\\Consola.csproj",
+      "projectName": "Consola",
+      "projectPath": "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\Consola\\Consola.csproj",
+      "packagesPath": "C:\\Users\\Vasco Vilhena\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\Consola\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Vasco Vilhena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\Calculadora\\Calculadora.csproj"
+            },
+            "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\JogoDaForca\\JogoDaForca.csproj": {
+              "projectPath": "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\JogoDaForca\\JogoDaForca.csproj"
+            },
+            "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\JogoDoGalo\\JogoDoGalo.csproj": {
+              "projectPath": "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\JogoDoGalo\\JogoDoGalo.csproj"
+            },
+            "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\PedraPapelTesoura\\PedraPapelTesoura.csproj": {
+              "projectPath": "C:\\Users\\Vasco Vilhena\\Desktop\\Ficha13\\PedraPapelTesoura\\PedraPapelTesoura.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Team\Ficha13\JogoDoGalo\obj\Debug\netcoreapp3.1\JogoDoGalo.csprojAssemblyReference.cache
+C:\Team\Ficha13\JogoDoGalo\obj\Debug\netcoreapp3.1\JogoDoGalo.csproj.CoreCompileInputs.cache
+C:\Team\Ficha13\JogoDoGalo\obj\Debug\netcoreapp3.1\JogoDoGalo.AssemblyInfoInputs.cache
+C:\Team\Ficha13\JogoDoGalo\obj\Debug\netcoreapp3.1\JogoDoGalo.AssemblyInfo.cs
+C:\Team\Ficha13\JogoDoGalo\bin\Debug\netcoreapp3.1\JogoDoGalo.deps.json
+C:\Team\Ficha13\JogoDoGalo\bin\Debug\netcoreapp3.1\JogoDoGalo.dll
+C:\Team\Ficha13\JogoDoGalo\bin\Debug\netcoreapp3.1\JogoDoGalo.pdb
+C:\Team\Ficha13\JogoDoGalo\obj\Debug\netcoreapp3.1\JogoDoGalo.dll
+C:\Team\Ficha13\JogoDoGalo\obj\Debug\netcoreapp3.1\JogoDoGalo.pdb

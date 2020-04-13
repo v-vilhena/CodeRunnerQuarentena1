@@ -1,0 +1,9 @@
+C:\Team\Ficha13\PedraPapelTesoura\bin\Debug\netcoreapp3.1\PedraPapelTesoura.deps.json
+C:\Team\Ficha13\PedraPapelTesoura\bin\Debug\netcoreapp3.1\PedraPapelTesoura.dll
+C:\Team\Ficha13\PedraPapelTesoura\bin\Debug\netcoreapp3.1\PedraPapelTesoura.pdb
+C:\Team\Ficha13\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.csprojAssemblyReference.cache
+C:\Team\Ficha13\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Team\Ficha13\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Team\Ficha13\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.AssemblyInfo.cs
+C:\Team\Ficha13\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.dll
+C:\Team\Ficha13\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.pdb
